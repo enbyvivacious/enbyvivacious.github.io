@@ -1,0 +1,52 @@
+html, body {
+  height: 100%;
+  width: 100%
+}
+main {
+  background-color: lavenderblush
+}
+body {
+  background-color:#ffe5ee;
+  width: 80%
+}
+
+
+h1 {
+  background-color:#ff7ab4;
+  color:#fee1f3;
+  font-family: "Sofia", sans-serif;
+}
+
+h2 {
+  background-color:#febed7;
+  color: #ffffff;
+  font-family: "Audiowide", sans-serif;
+}
+
+h3 { background-color: lightpink;
+    color: #feebff;
+    font-family: Copperplate, fantasy
+  
+}
+
+p {
+  background-color:rgba(255, 0, 111, 0.5);
+  color: #4f4f4f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+ol {
+  background-color:rgba(255, 0, 111, 0.25);
+  color: #878787;  font-family: "Trirong", serif;
+}
+
+ul {
+  background-color:rgba(255, 0, 111, 0.75);
+  color: #f2f2f2;
+    font-family: "Trirong", serif;
+}
+footer {
+  background-color:#ffffff;
+  font-style: italic;
+    font-family: "Trirong", serif;
+}

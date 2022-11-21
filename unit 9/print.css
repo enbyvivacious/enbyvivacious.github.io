@@ -1,0 +1,15 @@
+ul { 
+  display: none
+}
+body {
+font-size: 1.25em; 
+color: black
+}
+img { 
+  display: none; 
+}
+@media print {
+  a::after{
+    content: " (" attr(href) ") ";
+  }
+}

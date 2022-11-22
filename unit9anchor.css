@@ -1,0 +1,30 @@
+#fallacies{
+  margin-left:20px;
+}
+#toc {
+  border-radius:5px;
+  border-color: #5286ff;
+  padding: 5px;
+  border-style: double;
+  background-color: #a8baff;
+  color: white
+}
+a:link {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+h3{
+  text-decoration:underline;
+}
+
+p{
+  border-radius:15px;
+  background-color:#EEE;
+  padding: 15px;
+}
